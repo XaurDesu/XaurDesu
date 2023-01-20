@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Jaime Torres, currently a Computer Engineering student at Universidad de los Andes in Colombia; My interests (when talking about Software, of course) include Robotics, game engines, compilers and basically anything Open Source related. Might dabble in projects here and there, you guys know how it is. He/Him
+I'm Jaime Torres, currently a Computer Engineering student at Universidad de los Andes in Colombia; My interests (when talking about Software, of course) include Robotics, game engines, compilers and basically anything Open Source related. Might dabble in projects here and there, you guys know how it is. My commit history is a bit spotty, just keep in mind i-m a student, i can't contribute to stuff day, even if i wanted to.
+
+He/Him
 
 <!--
 **XaurDesu/XaurDesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
