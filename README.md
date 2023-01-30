@@ -4,6 +4,7 @@ I'm Jaime Torres, currently a Computer Engineering student at Universidad de los
 
 He/Him
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaurdesu&count_private=true&theme=dracula)
 <!--
 **XaurDesu/XaurDesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
