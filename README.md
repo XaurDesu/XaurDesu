@@ -6,7 +6,7 @@ He/Him
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaurdesu&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=XaurDesu)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=XaurDesu&theme=dracula)](https://git.io/streak-stats)
 
 <!--
 **XaurDesu/XaurDesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
