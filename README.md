@@ -8,7 +8,7 @@ He/Him
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=XaurDesu&theme=dracula)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on my undergrad, but besides that i've comitted to a few repos for Open Source software, once i'm more "established" in some communities, i will put it here.
+- 🔭 I’m currently working on my undergrad, but besides that i've comitted to a few repos for Open Source software, once i'm more "established" in some communities, i will put it here. (something something i like programming languages.)
 
 <!--
 **XaurDesu/XaurDesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
