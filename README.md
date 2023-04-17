@@ -4,10 +4,6 @@ I'm Jaime Torres, currently a Computer Engineering student at Universidad de los
 
 He/Him
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaurdesu&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=XaurDesu&theme=dracula)](https://git.io/streak-stats)
-
 - 🔭 I’m currently working on my undergrad, but besides that i've comitted to a few repos for Open Source software, once i'm more "established" in some communities, i will put it here. (something something i like programming languages.)
 
 <!--
