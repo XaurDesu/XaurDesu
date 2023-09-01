@@ -5,7 +5,7 @@ I'm Jaime Torres, currently a Computer Engineering student at Universidad de los
 He/Him
 
 - 🔭 I’m currently working on my undergrad, but besides that i've comitted to a few repos for Open Source software, once i'm more "established" in some communities, i will put it here. (something something i like programming languages (also a bunch of other things-).)
-
+- 🌱 Currently learning Rust, i'll probably have a few projects to show here, eventually.
 <!--
 **XaurDesu/XaurDesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
